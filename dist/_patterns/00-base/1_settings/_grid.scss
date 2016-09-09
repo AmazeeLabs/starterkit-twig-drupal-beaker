@@ -1,0 +1,19 @@
+// BORDER BOX
+// =============================================================================
+@include border-box-sizing;
+
+// CONFIGURE SUSY 2 GLOBAL DEFAULTS
+// =============================================================================
+
+// *** Begin Example **** //
+    // $susy: (
+    //   columns: 14,
+    //   gutters: 3/7,
+    //   column-width: 70px,
+    //   container: 2000px,
+    //   debug: (
+    //     image: show-columns,
+    //     color: rgba(red,0.1),
+    //   ),
+    // );
+// *** End Example **** //

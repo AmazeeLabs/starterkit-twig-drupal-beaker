@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "Primary font",
+      "font_name": "Sans",
+      "stack": "Helvetica, Arial, sans-serif"
+    },
+    {
+      "type": "Secondary font",
+      "font_name": "Serif",
+      "stack": "Times, 'Times New Roman', serif"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{% for item in items %}
+  {{ item.type }}: <span style="font-family: {{ item.stack }};">{{ item.font_name }}</span>
+  <div style="font-weight: 300;">{{ item.stack }}</div>
+  <p></p>
+{% endfor %}

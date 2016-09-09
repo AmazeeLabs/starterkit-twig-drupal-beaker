@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "$white",
+      "value": "#fff"
+    },
+    {
+      "name": "$black",
+      "value": "#000"
+    }
+  ]
+}
