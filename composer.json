@@ -5,19 +5,6 @@
   "homepage":         "http://patternlab.io",
   "license":          "GPL-2.0+",
   "type":             "patternlab-starterkit",
-  "authors": [
-    {
-      "name":         "Dave Olsen",
-      "email":        "dmolsen@gmail.com",
-      "homepage":     "http://dmolsen.com",
-      "role":         "Lead Developer"
-    },
-    {
-      "name":         "Brad Frost",
-      "homepage":     "http://bradfrostweb.com",
-      "role":         "Creator"
-    }
-  ],
   "support": {
     "issues":         "https://github.com/AmazeeLabs/starterkit-twig-drupal-beaker/issues",
     "wiki":           "http://patternlab.io/docs/",
