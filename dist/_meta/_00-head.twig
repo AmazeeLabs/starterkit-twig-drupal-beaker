@@ -8,8 +8,14 @@
     <link rel="stylesheet" href="../../css/style.css?{{ cacheBuster }}" media="all" />
     <link rel="stylesheet" href="../../css/pattern-scaffolding.css?{{ cacheBuster }}" media="all" />
 
-    <!-- Begin Typekit (Include fonts from Typekit) -->
+    <!-- Begin Typekit (Include fonts from Typekit.) -->
+    {# They still need to be included in beaker/templates/html.html.twig #}
     <!-- End Typekit -->
+
+    <!-- Begin Inject CSS from Drupal theme -->
+    <link rel="stylesheet" href="../../../../css/styles.css?{{ cacheBuster }}" media="all" />
+    <!-- End Inject CSS from Drupal theme -->
+
 
     <!-- Begin Pattern Lab (Required for Pattern Lab to run properly) -->
     {{ patternLabHead | raw }}
